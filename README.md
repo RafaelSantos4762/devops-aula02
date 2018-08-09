@@ -1,5 +1,5 @@
 # devops-aula02
 
-# Ator
-# Ator
-# Ator
+# Morgan Freeman
+# Jim Carrey
+# Adam Sandler
