@@ -1,5 +1,5 @@
 # devops-aula02
 
-# Ator
-# Ator
-# Ator
+# Ator Morgam Freeman
+# Ator Morgam Silva
+# Ator Adam Sandler
