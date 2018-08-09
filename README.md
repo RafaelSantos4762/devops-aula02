@@ -1,5 +1,6 @@
 # devops-aula02
 
-# Ator Morgam Freeman
-# Ator Morgam Silva
-# Ator Adam Sandler
+# Morgan Freeman
+# Jim Carrey
+# Adam Sandler
+
